@@ -1,4 +1,8 @@
-# 第一章：初始Aris
+# 第一章：初识Aris
 
-Aris全程ArisLauncher（中文：Aris终端桌面）
+**Aris**全程**ArisLauncher**（**中文名：Aris终端桌面**）
+
+简单来说，Aris就是一个大部分操作都通过输入来完成的Android桌面。
+
+
 
