@@ -1,3 +1,4 @@
-# First Chapter
+# 第一章：初始Aris
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Aris全程ArisLauncher（中文：Aris终端桌面）
+
