@@ -4,5 +4,7 @@
 
 **Airs团队：** [**shinado**](https://github.com/shinado)** **/ [**7doger**](https://github.com/7doger)
 
-**文档撰写组： 伴虎 / sR. / **[**7doger**](https://github.com/7doger)
+**文档撰写组： **[**7doger**](https://github.com/7doger)
+
+**特别感谢：**伴虎 / sR.
 
