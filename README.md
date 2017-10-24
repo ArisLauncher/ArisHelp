@@ -2,9 +2,17 @@
 
 本文档由“Aris团队”及“Aris帮助文档撰写组”共同撰写，本文档仅为了帮助您快速掌握Aris并且得知它的全部“超能力”。
 
+文档由@[7doger](https://github.com/7doger)撰写，采用
+
 **Airs团队：** [**shinado**](https://github.com/shinado)** **/ [**7doger**](https://github.com/7doger)
 
-**文档撰写组： **[**7doger**](https://github.com/7doger)
+**文档撰写： **[**7doger**](https://github.com/7doger)
 
-**特别感谢：**伴虎 / sR.
+**特别感谢：**伴虎
+
+**官方博客：**[**http://arislauncher.com**](http://arislauncher.com)
+
+**官方鹅群：**[653617792](https://jq.qq.com/?_wv=1027&k=5g27swh)
+
+**Aris Download：**[CoolApk](https://www.coolapk.com/apk/shinado.indi.piping) / [百度手机助手](http://shouji.baidu.com/software/22573030.html)
 
