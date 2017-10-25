@@ -1,10 +1,10 @@
 # ArisLauncher官方帮助文档
 
-本文档由“Aris团队”及“Aris帮助文档撰写组”共同撰写，本文档仅为了帮助您快速掌握Aris并且得知它的全部“超能力”。
+本文档由“Aris团队”及“Aris帮助文档撰写组”整理，仅为了帮助您快速掌握Aris并且得知它的全部“超能力”。
 
-文档由@[7doger](https://github.com/7doger)撰写，采用
+文档由@[7doger](https://github.com/7doger)撰写/发布
 
-**Airs团队：** [**shinado**](https://github.com/shinado)** **/ [**7doger**](https://github.com/7doger)
+**Aris团队：** [**shinado**](https://github.com/shinado)** **/ [**7doger**](https://github.com/7doger)
 
 **文档撰写： **[**7doger**](https://github.com/7doger)
 
