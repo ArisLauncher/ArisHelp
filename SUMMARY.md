@@ -3,5 +3,6 @@
 * [首页](README.md)
 * [第一章：初识Aris](chapter1.md)
 * [第二章：基础功能&指令](di-er-zhang-ff1a-jin-jie-pian.md)
-* [第三章：扩展插件](di-san-zhang-ff1a-kuo-zhan-cha-jian.md)
+* [第三章：config功能详解](te-bie-7bc728-4e0029-ji-yong-hu.md)
+* [第四章：扩展插件](di-san-zhang-ff1a-kuo-zhan-cha-jian.md)
 
