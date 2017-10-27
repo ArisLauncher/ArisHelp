@@ -15,13 +15,13 @@
 如果你需要把某个文件夹下的最新文件（例如某浏览器的下载文件夹）发送给QQ好友，那么你会使用：
 
 ```
-cd browser/download/files-&gt;latest-&gt;qq
+cd browser/download/files->latest->qq
 ```
 
 如果经常要使用这个指令的话，你就可以通过这条指令加入：
 
 ```
-cd browser/download/files-&gt;latest-&gt;qq-&gt;add keke
+cd browser/download/files->latest->qq->add keke
 ```
 
 这样，下一次你执行keke的时候，就会自动把文件夹/browser/download/files下最新的文件分享到QQ中。

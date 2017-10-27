@@ -26,7 +26,7 @@
 | restart | 重启Aris | \# |
 | clear | 清屏 | 清理屏幕上所有文本 |
 | help | 获取帮助 | 进入本教程的入口 |
-| add | 添加侧栏 | [详细教程点我查看](http://arislauncher.com/aris/guide/2017/07/25/bookmark/) |
+| add | 添加侧栏 | [详细教程点我查看](https://7doger.gitbooks.io/aris/di-wu-zhang-ff1a-alias-xiang-jie.html) |
 | rm | 删除侧栏 | 详情教程点上方查看↑↑ |
 | config | Aris桌面设置 | \# |
 | clipboard | 调取系统剪切板实现 复制/粘贴 | \[输入\]-&gt;clipboard / clipboard-&gt;\[输出\] |
