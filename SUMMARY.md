@@ -6,4 +6,5 @@
 * [第三章：config功能详解](te-bie-7bc728-4e0029-ji-yong-hu.md)
 * [第四章：扩展插件](di-san-zhang-ff1a-kuo-zhan-cha-jian.md)
 * [第五章：Alias详解](di-wu-zhang-ff1a-alias-xiang-jie.md)
+* [第六章：即时执行](di-liu-zhang-ff1a-instant-run.md)
 
