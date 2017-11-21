@@ -44,5 +44,5 @@
 
 接下来再执行usd-&gt;currency就可以获取当前的人民币兑美金汇率了
 
-//TODO to be continiued
+//TODO to be continued
 
