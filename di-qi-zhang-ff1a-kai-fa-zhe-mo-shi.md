@@ -4,7 +4,7 @@
 
 首先，输入dddddvlp指令以进入开发者模式。
 
-获取人民币兑换美元汇率的接口地址为https://api.fixer.io/latest?base=CNY&symbols=USD
+获取人民币兑换美元汇率的接口地址为[https://api.fixer.io/latest?base=CNY&symbols=USD](https://api.fixer.io/latest?base=CNY&symbols=USD)
 
 复制这个地址，并在Aris中执行clipboard-&gt;post
 
@@ -26,9 +26,23 @@
 
 也就是说，获取人民币兑换美金的数值完整的指令为
 
-https://api.fixer.io/latest?base=CNY&symbols=USD-&gt;post-&gt;jget rates-&gt;jget usd
+[https://api.fixer.io/latest?base=CNY&symbols=USD-&gt;post-&gt;jget](https://api.fixer.io/latest?base=CNY&symbols=USD->post->jget) rates-&gt;jget usd
 
+### 保存指令
 
+辛辛苦苦写的代码当然要保存一下了。你可以通过add指令把上面的指令集合保存起来，命名为usd。
+
+[https://api.fixer.io/latest?base=CNY&symbols=USD-&gt;post-&gt;jget](https://api.fixer.io/latest?base=CNY&symbols=USD->post->jget) rates-&gt;jget usd-&gt;add usd
+
+之后，你只需要执行usd就可以获取当前的人民币兑美金汇率了。
+
+### **参数**
+
+现在你要关注多个汇率数值，你可以使用$s把货币作为参数，把这个指令保存为currency：
+
+[https://api.fixer.io/latest?base=CNY&symbols=$s-&gt;post-&gt;jget](https://www.gitbook.com/book/7doger/aris/edit#) rates-&gt;jget usd-&gt;add currency
+
+接下来再执行usd-&gt;currency就可以获取当前的人民币兑美金汇率了
 
 //TODO to be continiued
 
