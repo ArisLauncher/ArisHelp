@@ -22,7 +22,7 @@
 {"USD":0.15074}
 ```
 
-再进一步，如果你只需人民币兑换美金的数值，只需要再执行-&gt;jget usd（请注意，Aris的开发者插件忽略大小写）
+再进一步，如果你只需人民币兑换美金的数值，只需要再执行-&gt;jget USD。
 
 也就是说，获取人民币兑换美金的数值完整的指令为
 
@@ -42,7 +42,11 @@
 
 [https://api.fixer.io/latest?base=CNY&symbols=$s-&gt;post-&gt;jget](https://www.gitbook.com/book/7doger/aris/edit#) rates-&gt;jget usd-&gt;add currency
 
-接下来再执行usd-&gt;currency就可以获取当前的人民币兑美金汇率了
+接下来再执行USD-&gt;currency就可以获取当前的人民币兑美金汇率了
+
+### 分享指令
+
+以上面的例子来说，你可以使用currency-&gt;submit来把指令上传到服务器中，这样大家就可以使用你开发的指令了:\)。
 
 //TODO to be continued
 
