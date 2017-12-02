@@ -14,5 +14,5 @@
 
 **官方鹅群：**[653617792](https://jq.qq.com/?_wv=1027&k=5g27swh)
 
-**Aris Download：**[CoolApk](https://www.coolapk.com/apk/shinado.indi.piping) / [百度手机助手](http://shouji.baidu.com/software/22573030.html)
+**Aris Download：**[CoolApk](https://www.coolapk.com/apk/shinado.indi.piping) / [百度手机助手](http://shouji.baidu.com/software/22573030.html) / [PP助手](https://www.25pp.com/android/detail_7423300/)
 
