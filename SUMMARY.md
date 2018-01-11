@@ -8,4 +8,5 @@
 * [第五章：Alias详解](di-wu-zhang-ff1a-alias-xiang-jie.md)
 * [第六章：即时执行](di-liu-zhang-ff1a-instant-run.md)
 * [第七章：开发者模式](di-qi-zhang-ff1a-kai-fa-zhe-mo-shi.md)
+* [第八章：app联系人](di-bazhang-ff1a-app-lian-xi-ren.md)
 
