@@ -6,7 +6,7 @@
 
 **Aris团队：** [**shinado**](https://github.com/shinado)** **/ [**7doger**](https://github.com/7doger)
 
-**文档撰写： **[**7doger**](https://github.com/7doger)
+**文档撰写：**[**shinado**](https://github.com/shinado)** / **[**7doger**](https://github.com/7doger)
 
 **特别感谢：**伴虎
 
@@ -14,5 +14,7 @@
 
 **官方鹅群：**[653617792](https://jq.qq.com/?_wv=1027&k=5g27swh)
 
-**Aris Download：**[CoolApk](https://www.coolapk.com/apk/shinado.indi.piping) / [百度手机助手](http://shouji.baidu.com/software/22573030.html) / [PP助手](https://www.25pp.com/android/detail_7423300/)
+**Discord：**  [邀请链接 ](https://discord.gg/xcmnD72) \(xcmnD72\)
+
+**Download：**[CoolApk](https://www.coolapk.com/apk/shinado.indi.piping) / [百度手机助手](http://shouji.baidu.com/software/22573030.html) / [PP助手](https://www.25pp.com/android/detail_7423300/)
 
