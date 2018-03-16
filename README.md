@@ -8,7 +8,7 @@
 
 **文档撰写：**[**shinado**](https://github.com/shinado)** / **[**7doger**](https://github.com/7doger)
 
-**特别感谢：**伴虎
+**特别感谢：伴虎**
 
 **官方博客：**[**http://arislauncher.com**](http://arislauncher.com)
 
