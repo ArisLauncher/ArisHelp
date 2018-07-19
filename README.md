@@ -12,7 +12,7 @@
 
 **官方鹅群：**[**653617792**](https://jq.qq.com/?_wv=1027&k=5g27swh)
 
-**Discord：**  [邀请链接 ](https://discord.gg/xcmnD72) \(**xcmnD72**\)
+**Discord：**  [**邀请链接** ](https://discord.gg/xcmnD72) \(**xcmnD72**\)
 
-**Download：**[CoolApk](https://www.coolapk.com/apk/shinado.indi.piping) / [PP助手](https://www.25pp.com/android/detail_7423300/)
+**Download：**[**CoolApk**](https://www.coolapk.com/apk/shinado.indi.piping) / [**PP助手**](https://www.25pp.com/android/detail_7423300/)
 
