@@ -4,15 +4,15 @@
 
 文档由@[7doger](https://github.com/7doger)撰写/发布
 
-**Aris团队：** [**shinado**](https://github.com/shinado)** **/ [**7doger**](https://github.com/7doger)
+**Aris团队：** [**shinado**](https://github.com/shinado)** **/ [**七狗子**](coolmarket://u/520656)
 
-**文档撰写：**[**shinado**](https://github.com/shinado)** / **[**7doger**](https://github.com/7doger)
+**文档撰写：**[**shinado**](https://github.com/shinado)** / **[**七狗子**](coolmarket://u/520656)
 
 **官方博客：**[**http://arislauncher.com**](http://arislauncher.com)
 
-**官方鹅群：**[653617792](https://jq.qq.com/?_wv=1027&k=5g27swh)
+**官方鹅群：**[**653617792**](https://jq.qq.com/?_wv=1027&k=5g27swh)
 
-**Discord：**  [邀请链接 ](https://discord.gg/xcmnD72) \(xcmnD72\)
+**Discord：**  [邀请链接 ](https://discord.gg/xcmnD72) \(**xcmnD72**\)
 
-**Download：**[CoolApk](https://www.coolapk.com/apk/shinado.indi.piping) / [百度手机助手](http://shouji.baidu.com/software/22952860.html) / [PP助手](https://www.25pp.com/android/detail_7423300/)
+**Download：**[CoolApk](https://www.coolapk.com/apk/shinado.indi.piping) / [PP助手](https://www.25pp.com/android/detail_7423300/)
 
