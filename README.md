@@ -2,8 +2,6 @@
 
 本文档由“Aris团队”及“Aris帮助文档撰写组”管理，仅为了帮助您快速掌握Aris并且得知它的全部“超能力”。
 
-文档由@[7doger](https://github.com/7doger)撰写/发布
-
 **Aris团队：** [**shinado**](https://github.com/shinado)** **/ [**七狗子**](coolmarket://u/520656)
 
 **文档撰写：**[**shinado**](https://github.com/shinado)** / **[**七狗子**](coolmarket://u/520656)
