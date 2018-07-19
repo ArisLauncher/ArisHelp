@@ -2,7 +2,7 @@
 
 本文档由“Aris团队”及“Aris帮助文档撰写组”管理，仅为了帮助您快速掌握Aris并且得知它的全部“超能力”。
 
-**Aris团队：** [**shinado**](coolmarket://u/427673)** **/ [**七狗子**](coolmarket://u/520656)
+**Aris团队：** [**shinado**](coolmarket://u/427673)** /** [**七狗子**](coolmarket://u/520656)
 
 **文档撰写：**[**shinado**](coolmarket://u/427673)** / **[**七狗子**](coolmarket://u/520656)
 
