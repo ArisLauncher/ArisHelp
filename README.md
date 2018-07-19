@@ -8,6 +8,8 @@
 
 **官方博客：**[**http://arislauncher.com**](http://arislauncher.com)
 
+**旧版下载：**[**http://applog.arislauncher.com**](http://applog.arislauncher.com/)
+
 **官方鹅群：**[**653617792**](https://jq.qq.com/?_wv=1027&k=5g27swh)
 
 **Discord：**  [邀请链接 ](https://discord.gg/xcmnD72) \(**xcmnD72**\)
