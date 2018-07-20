@@ -14,5 +14,5 @@
 
 **Discord：**  [**邀请链接** ](https://discord.gg/xcmnD72) \(**xcmnD72**\)
 
-**Download：**[**CoolApk**](https://www.coolapk.com/apk/shinado.indi.piping) / [**PP助手**](https://www.25pp.com/android/detail_7423300/)
+**Download：**[**CoolApk**](https://www.coolapk.com/apk/shinado.indi.piping) **/** [**PP助手**](https://www.25pp.com/android/detail_7423300/) **/ **[**豌豆荚**](http://www.wandoujia.com/apps-shinado.indi.piping)
 
