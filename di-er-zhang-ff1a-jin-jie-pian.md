@@ -21,10 +21,11 @@
 
 | **指令** | **作用** | 说明 |
 | :--- | :--- | :--- |
-| restart | 重启Aris | \# |
+| restart | 重启Aris | 遇到问题重启就对了 |
+| uninstall | 卸载APP或插件 | &lt;应用&gt;-&gt;uninstall |
 | clear | 清屏 | 清理屏幕上所有文本 |
 | help | 获取帮助 | 进入本教程的入口 |
-| add | 添加侧栏 | [详细教程点我查看](https://7doger.gitbooks.io/aris/di-wu-zhang-ff1a-alias-xiang-jie.html) |
+| add | 添加侧栏 | [详细教程点我查看](https://help.arislauncher.com/di-wu-zhang-ff1a-alias-xiang-jie.html) |
 | rm | 删除侧栏 | 详情教程点上方查看↑↑ |
 | config | Aris桌面设置 | \# |
 | clipboard | 调取系统剪切板实现 复制/粘贴 | \[输入\]-&gt;clipboard / clipboard-&gt;\[输出\] |
