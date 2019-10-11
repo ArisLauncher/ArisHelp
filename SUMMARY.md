@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [首页](README.md)
 * [第一章：初识Aris](chapter1.md)
