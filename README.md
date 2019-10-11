@@ -6,7 +6,7 @@
 
 **文档撰写：**[**shinado**](coolmarket://u/427673) **/** [**七狗子**](coolmarket://u/520656)
 
-**官方博客：**[**https://arislauncher.com**](https://arislauncher.com)\*\*\*\*
+**官方网站：**[**https://arislauncher.com**](https://arislauncher.com)\*\*\*\*
 
 **官方鹅群：**[**653617792**](https://jq.qq.com/?_wv=1027&k=5g27swh)
 
