@@ -26,6 +26,7 @@
 | **指令** | 作用 | 说明 |  |
 | :--- | :--- | :--- | :--- |
 | -&gt; | 连接符 | 下面的指令中将看到它的作用 |  |
+| sign in | 登陆 | 桌面也可以直接登陆辣 |  |
 | sign out | 退出登陆 | 终于可以登出了（小声bb |  |
 | restart | 重启Aris | 遇到问题重启就对了 |  |
 | uninstall | 卸载APP或插件 | &lt;应用&gt; -&gt; uninstall |  |
@@ -35,10 +36,12 @@
 | clipboard | 调取系统剪切板实现 复制/粘贴 | \[输入\]-&gt;clipboard / clipboard-&gt;\[输出\] |  |
 | info | 快捷进入应用详情页 | &lt;应用&gt;-&gt;info |  |
 | folder | 弹出功能菜单（新窗口） | \# |  |
+| note | 调出笔记窗口 | \# |  |
 | cd | 文件管理器功能 | \# |  |
 | wifi | 打开/关闭 WIFI | \# |  |
 | bluetooth | 打开/关闭 蓝牙 | \# |  |
 | LOCATE ME | 弹出一个窗口显示你的当前位置 | 调取自Google Map需要tz才能正常使用 |  |
 | torch | 打开/关闭 手电筒 | \# |  |
+| encrypt | 调出一个加密窗口 | \# |  |
 | store | 主题商店 | 获取更多主题 |  |
 
