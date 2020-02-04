@@ -1,5 +1,9 @@
 # 第三章：config功能详解
 
+{% hint style="warning" %}
+此章节年久失修，正在整修中~
+{% endhint %}
+
 > “config”是Aris的“设置”指令（高级等功能君均需要在此开启）
 
 | 功能 | 说明 |
