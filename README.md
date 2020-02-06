@@ -12,6 +12,8 @@
 
 **提交工单：**[**https://ticket.arislauncher.com**](https://ticket.arislauncher.com/)\*\*\*\*
 
+**视频教程：**[**https://url.mods.ren/sp**](https://url.mods.ren/sp)\*\*\*\*
+
 **官方QQ群①：653617792（**[**点我加入**](https://jq.qq.com/?_wv=1027&k=5PzHEft)**）**
 
 **官方QQ群②：942885582（**[**点我加入**](https://jq.qq.com/?_wv=1027&k=57nC2eo)**）**
