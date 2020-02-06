@@ -1,4 +1,4 @@
-# 第四章：Alias详解
+# Alias详解
 
 {% hint style="warning" %}
 此章节年久失修，正在修正中（50%/100%）

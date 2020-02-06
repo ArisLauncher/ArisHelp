@@ -1,4 +1,4 @@
-# 第三章：config功能详解
+# config功能详解
 
 {% hint style="warning" %}
 此章节年久失修，正在整正中~
