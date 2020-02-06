@@ -2,7 +2,7 @@
 
 * [首页](README.md)
 * [初识Aris](1.md)
-* [基础指南](guide/README.md)
+* [基础操作](guide/README.md)
   * [基本功能](guide/basis.md)
   * [指令大全](2.md)
   * [Config功能详解](3.md)
