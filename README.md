@@ -1,5 +1,11 @@
 # 首页
 
+{% hint style="warning" %}
+**疫情期间，请大家尽量少少出门，出门要戴口罩，不要参与组织任何聚会；**
+
+**武汉加油！中国加油！**
+{% endhint %}
+
 {% hint style="success" %}
 本文档由仅为了帮助您快速掌握Aris并且得知它的全部功能。
 {% endhint %}
@@ -11,6 +17,14 @@
 **官方网站：**[**https://arislauncher.com**](https://arislauncher.com)\*\*\*\*
 
 **提交工单：**[**https://ticket.arislauncher.com**](https://ticket.arislauncher.com/)\*\*\*\*
+
+**视频教程：**[**https://url.mods.ren/sp**](https://url.mods.ren/sp)
+
+**新浪微博：**[**https://weibo.com/arislauncher**](https://weibo.com/arislauncher)\*\*\*\*
+
+**微信公众号：**
+
+\*\*\*\*![](.gitbook/assets/qrcode_for_gh_37bcebda0080_258.jpg) 
 
 **官方QQ群①：653617792（**[**点我加入**](https://jq.qq.com/?_wv=1027&k=5PzHEft)**）**
 
