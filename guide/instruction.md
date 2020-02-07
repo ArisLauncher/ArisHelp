@@ -1,3 +1,7 @@
+---
+description: 所有的指令都在这里
+---
+
 # 指令大全
 
 {% hint style="info" %}
