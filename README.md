@@ -9,7 +9,7 @@
 {% endhint %}
 
 {% hint style="success" %}
-本文档由仅为了帮助您快速掌握Aris并且得知它的全部功能。
+本文档由仅为了帮助您快速掌握Aris并且得知它的全部功能。 
 {% endhint %}
 
 **Aris团队：** [**shinado**](coolmarket://u/427673) **/** [**七狗子**](coolmarket://u/520656)
