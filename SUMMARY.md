@@ -11,7 +11,7 @@
   * [即时执行](guide/instant-execution.md)
 * [更新日志](2.md)
 * [已失效部分](error/README.md)
-  * [第六章：扩展插件](error/plugins.md)
-  * [第七章：开发者模式](error/developer.md)
-  * [第八章：app联系人](error/app-contacts.md)
+  * [扩展插件](error/plugins.md)
+  * [开发者模式](error/developer.md)
+  * [APP内联系人](error/app-contacts.md)
 
