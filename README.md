@@ -12,17 +12,13 @@
 本文档由仅为了帮助您快速掌握Aris并且得知它的全部功能。 
 {% endhint %}
 
-**Aris团队：** [**shinado**](coolmarket://u/427673) **/** [**七狗子**](coolmarket://u/520656)
-
-**文档撰写：**[**shinado**](coolmarket://u/427673) **/** [**七狗子**](coolmarket://u/520656)
+**酷安：** [**shinado**](coolmarket://u/427673) **/** [**七狗子**](coolmarket://u/520656)
 
 **官方网站：**[**https://arislauncher.com**](https://arislauncher.com)\*\*\*\*
 
 **提交工单：**[**https://ticket.arislauncher.com**](https://ticket.arislauncher.com/)\*\*\*\*
 
-**视频教程：**[**https://url.mods.ren/sp**](https://url.mods.ren/sp)
-
-**新浪微博：**[**https://weibo.com/arislauncher**](https://weibo.com/arislauncher)\*\*\*\*
+**社交媒体：**[**微博**](https://weibo.com/arislauncher) **/** [**Github**](https://github.com/ArisLauncher) **/** [**Instagram**](https://www.instagram.com/arislauncher/)
 
 **微信公众号：**
 
