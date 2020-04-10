@@ -28,6 +28,8 @@
 
 **官方QQ群②：942885582（**[**点我加入**](https://jq.qq.com/?_wv=1027&k=57nC2eo)**）**
 
+**Telegram：**[**加入群组**](https://t.me/ArisLauncher_chat)\*\*\*\*
+
 **Discord：** [**邀请链接** ](https://discord.gg/xcmnD72) \(**xcmnD72**\)
 
 目前已上架应用市场
