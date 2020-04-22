@@ -38,5 +38,5 @@ description: 所有的指令都在这里
 | store | 主题商店 | 获取更多主题 |
 | wxscan | 微信扫一扫 | \# |
 | ls | 显示APP的包名信息 | 例如：QQ-&gt;ls |
-| weather |  |  |
+| weather | 获取天气\(需要开启和授权定位\) | 目前版本存在BUG，等下个版本修复 |
 
