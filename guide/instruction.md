@@ -28,6 +28,7 @@ description: 所有的指令都在这里
 | info | 快捷进入应用详情页 | &lt;应用&gt;-&gt;info |
 | folder | 弹出功能菜单（新窗口） | \# |
 | note | 调出笔记窗口 | \# |
+| shell | 简单的CMD指令 | 仅支持部分简单的指令 |
 | cd | 文件管理器功能 | \# |
 | wifi | 打开/关闭 WIFI | \# |
 | bluetooth | 打开/关闭 蓝牙 | \# |
@@ -36,4 +37,6 @@ description: 所有的指令都在这里
 | encrypt | 调出一个加密窗口 | \# |
 | store | 主题商店 | 获取更多主题 |
 | wxscan | 微信扫一扫 | \# |
+| ls | 显示APP的包名信息 | 例如：QQ-&gt;ls |
+| weather |  |  |
 
