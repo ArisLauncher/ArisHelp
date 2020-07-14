@@ -22,25 +22,21 @@ description: 所有的指令都在这里
 | restart | 重启Aris | 遇到问题重启就对了 |
 | uninstall | 卸载APP或插件 | &lt;应用&gt; -&gt; uninstall |
 | clear | 清屏 | 清理屏幕上所有文本 |
-| themes | 主题商店 | 进入选择你喜欢的主题吧 |
+| help | 获取帮助 | 进入本教程的入口（也就是本站） |
 | config | 桌面设置 | 进入桌面设置 |
 | clipboard | 调取系统剪切板实现 复制/粘贴 | \[输入\]-&gt;clipboard / clipboard-&gt;\[输出\] |
 | info | 快捷进入应用详情页 | &lt;应用&gt;-&gt;info |
 | folder | 弹出功能菜单（新窗口） | \# |
 | note | 调出笔记窗口 | \# |
-| widgets | 弹出功能窗口 | \# |
 | shell | 简单的CMD指令 | 仅支持部分简单的指令 |
 | cd | 文件管理器功能 | \# |
 | wifi | 打开/关闭 WIFI | \# |
 | bluetooth | 打开/关闭 蓝牙 | \# |
 | LOCATE ME | 弹出一个窗口显示你的当前位置 | 调取自Google Map需要tz才能正常使用 |
-| globe | 弹出一个炫酷的地球 | \# |
-| memory | 弹出一个显示内存进程的窗口 | \# |
 | torch | 打开/关闭 手电筒 | \# |
 | encrypt | 调出一个加密窗口 | \# |
 | store | 主题商店 | 获取更多主题 |
 | wxscan | 微信扫一扫 | \# |
 | ls | 显示APP的包名信息 | 例如：QQ-&gt;ls |
 | weather | 获取天气\(需要开启和授权定位\) | 目前版本存在BUG，等下个版本修复 |
-|  |  |  |
 
