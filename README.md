@@ -24,7 +24,7 @@
 
 | APP商店 | 链接 |
 | :--- | :--- |
-| Google Play | [前往下载](https://play.google.com/store/apps/dev?id=7675344623603565765) |
+| Google Play | [前往下载](https://play.google.com/store/apps/details?id=com.ss.aris) |
 | 酷安 | [前往下载](https://www.coolapk.com/apk/shinado.indi.piping) |
 | 豌豆荚 | [前往下载](https://www.wandoujia.com/apps/7423300) |
 | PP助手 | [前往下载](https://wap.pp.cn/app_z5Dgcx5cxNcxe/) |
