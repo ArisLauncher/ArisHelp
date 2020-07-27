@@ -18,8 +18,6 @@
 
 **Telegram：**[**加入群组**](https://t.me/ArisLauncher_chat)\*\*\*\*
 
-**Discord：** [**邀请链接** ](https://discord.gg/xcmnD72) \(**xcmnD72**\)
-
 目前已上架应用市场
 
 | APP商店 | 链接 |
