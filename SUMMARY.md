@@ -10,6 +10,7 @@
   * [Config功能详解](guide/config.md)
   * [Alias详解](guide/alias.md)
   * [即时执行](guide/instant-execution.md)
+* [常见错误](erro.md)
 * [更新日志](2.md)
 * [已失效部分](error/README.md)
   * [扩展插件](error/plugins.md)
