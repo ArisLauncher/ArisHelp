@@ -26,4 +26,5 @@
 | 酷安 | [前往下载](https://www.coolapk.com/apk/shinado.indi.piping) |
 | 豌豆荚 | [前往下载](https://www.wandoujia.com/apps/7423300) |
 | PP助手 | [前往下载](https://wap.pp.cn/app_z5Dgcx5cxNcxe/) |
+| 应用宝 | [前往下载](https://a.app.qq.com/o/simple.jsp?pkgname=shinado.indi.piping) |
 

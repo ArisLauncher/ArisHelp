@@ -29,3 +29,7 @@ description: 解答一些常见问题
 
 目前只支持一些简单cmd指令，此功能目前仅供娱乐，不要太当真（当然也会考虑加入更多指令）
 
+## 用户ID在哪？
+
+教程在这里：[https://bili.ren/aris/11/](https://bili.ren/aris/11/)
+
