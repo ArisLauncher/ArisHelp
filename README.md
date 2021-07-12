@@ -8,6 +8,8 @@
 
 **官网：**[**https://arislauncher.com**](https://arislauncher.com)\*\*\*\*
 
+**博客：**[**https://blog.arislauncher.cn**](https://blog.arislauncher.cn)\*\*\*\*
+
 **工单：**[**https://ticket.arislauncher.com**](https://ticket.arislauncher.com/)\*\*\*\*
 
 **社交媒体：**[**微博**](https://weibo.com/arislauncher) **/** [**哔哩哔哩**](https://space.bilibili.com/12574988) **/** [**Github**](https://github.com/ArisLauncher) **/** [**Instagram**](https://www.instagram.com/arislauncher/)
