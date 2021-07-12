@@ -31,5 +31,5 @@ description: 解答一些常见问题
 
 ## 用户ID在哪？
 
-教程在这里：[https://bili.ren/aris/11/](https://bili.ren/aris/11/)
+教程在这里：[https://setup.arislauncher.cn/jc/11.html](https://setup.arislauncher.cn/jc/11.html)
 
