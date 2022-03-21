@@ -22,7 +22,7 @@ description: Home Page
 
 **官方QQ群②：942885582（**[**点我加入**](https://jq.qq.com/?\_wv=1027\&k=57nC2eo)**）**
 
-**Telegram：**[**加入群组**](https://t.me/ArisLauncher\_chat)\*\*\*\*
+**Telegram：**[**加入群组**](https://t.me/ArisLauncher\_chat)
 
 目前已上架应用市场
 
