@@ -10,9 +10,8 @@
 
 接下来，在桌面中直接用拼音搜索你需要搜索的App联系人。例如，我希望找到QQ中的“我的电脑”，即可输入wode，点击候选结果的@“wode”，在接下来的弹窗中选择QQ。
 
-![](../.gitbook/assets/959d7e993469db6381aabb4a28b95ac7.jpg) ![](../.gitbook/assets/21e51ed44a3af37e33a2a64632a28c5c.jpg)
+![](<../.gitbook/assets/959d7e993469db6381aabb4a28b95ac7 (1).jpg>) ![](<../.gitbook/assets/21e51ed44a3af37e33a2a64632a28c5c (1).jpg>)
 
 此时，如果“我的电脑”在此页面中的第一屏可见，则会显示“App联系人添加成功”。
 
-接下来，你就可以直接通过 消息-&gt;wode来发送到我的电脑上的QQ。
-
+接下来，你就可以直接通过 消息->wode来发送到我的电脑上的QQ。
