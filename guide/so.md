@@ -8,3 +8,40 @@
 
 在”config--即时引擎--配置“更改里面管理、添加搜索引擎。
 
+### 常见搜索引擎调用
+
+#### 必应（Bing）
+
+```
+https://www.bing.com/search?q=
+```
+
+#### Google
+
+```
+https://www.google.com/search?q=
+```
+
+#### 百度
+
+```
+https://m.baidu.com/s?word=
+```
+
+#### 360搜索
+
+```
+https://m.so.com/s?q=
+```
+
+#### 神马搜索
+
+```
+https://m.sm.cn/s?q=
+```
+
+#### 夸克AI搜索
+
+```
+https://quark.sm.cn/s?q=
+```
