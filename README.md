@@ -8,6 +8,8 @@ description: Home Page
 本文档由仅为了帮助您快速掌握Aris并且得知它的全部功能。
 {% endhint %}
 
+![Aris Launcher](<.gitbook/assets/256 (1).webp>)
+
 **酷安：** [**shinado**](coolmarket://u/427673) **/** [**七狗子**](coolmarket://u/520656)
 
 **官网：**[**https://arislauncher.com**](https://arislauncher.com)
