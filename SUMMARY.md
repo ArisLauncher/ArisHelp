@@ -8,7 +8,6 @@
   * [即时搜索](guide/so.md)
   * [Config功能详解](guide/config.md)
   * [Alias详解](guide/alias.md)
-  * [即时执行](guide/instant-execution.md)
 * [常见问题](chang-jian-wen-ti.md)
 * [常见错误](erro.md)
 * [更新日志](2.md)
@@ -16,4 +15,4 @@
   * [扩展插件](error/plugins.md)
   * [开发者模式](error/developer.md)
   * [APP内联系人](error/app-contacts.md)
-
+  * [即时执行](error/instant-execution.md)
